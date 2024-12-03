@@ -3,5 +3,7 @@
     "activityBar.background": "#1D2B54",
     "titleBar.activeBackground": "#293D76",
     "titleBar.activeForeground": "#FAFAFD"
-  }
+  },
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "editor.formatOnSave": true
 }
